@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Fernando Muller Caires
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndqM3FyZjY0enJocmNjbXFycTZoeDQxZDFzaDBhdHhna28wNjc0bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xrZuNcEAmTb6U/giphy.gif)" height="160px" alt="Gato Rockeiro" />
+ <div style="width:100%;height:0;padding-bottom:178%;position:relative;"><iframe src="https://giphy.com/embed/xrZuNcEAmTb6U" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/rock-n-roll-xrZuNcEAmTb6U">via GIPHY</a></p>
 </p>
 
 Seja bem-vindo(a) ao meu perfil! Sou um desenvolvedor **Full Stack** em formação, apaixonado por tecnologia, boas práticas de código e aprendizado contínuo. Busco sempre evoluir e contribuir para o crescimento das equipes com as quais colaboro.
