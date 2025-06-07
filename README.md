@@ -1,14 +1,14 @@
 # 👋 Olá! Eu sou o Fernando Muller Caires
 
-Seja bem-vindo(a) ao meu perfil! Sou um desenvolvedor em formação com foco em **Backend**, apaixonado por tecnologia, boas práticas de código e por aprender continuamente. Busco sempre evoluir e contribuir para o crescimento das equipes com as quais colaboro.
+Seja bem-vindo(a) ao meu perfil! Sou um desenvolvedor **Full Stack** em formação, apaixonado por tecnologia, boas práticas de código e aprendizado contínuo. Busco sempre evoluir e contribuir para o crescimento das equipes com as quais colaboro.
 
 ## 🚀 Sobre mim
 
-- 🎯 **Objetivo:** Desenvolvedor Backend Júnior  
+- 🎯 **Objetivo:** Desenvolvedor Full Stack Júnior  
 - 🎓 **Formação:** Técnico em Sistemas para Internet – Senac/SP (conclusão prevista: jan/2026)  
 - 💼 **Atualmente:** Estagiário em Desenvolvimento na [Finnet](https://www.finnet.com.br)  
-- 🔁 **Experiência:** Desenvolvimento e manutenção de sistemas com JavaScript, PHP, SQL e uso de ORM (Doctrine), além de participação ativa em squads ágeis  
-- 💡 **Interesses:** Backend, APIs, Laravel, Docker, Clean Code, Metodologias Ágeis  
+- 🔁 **Experiência:** Desenvolvimento e manutenção de sistemas com JavaScript, PHP e SQL, utilizando frameworks como Laravel e React, além do uso de ORM (Doctrine) e participação ativa em squads ágeis  
+- 💡 **Interesses:** Desenvolvimento Web, APIs, Laravel, React, Docker, Clean Code, Metodologias Ágeis  
 
 ## 🛠️ Tech Stack
 
@@ -32,9 +32,8 @@ Seja bem-vindo(a) ao meu perfil! Sou um desenvolvedor em formação com foco em 
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [Quarkus-API]([https://github.com/seuusuario/api-clientes](https://github.com/FernandoMCaires/Quarkus-API)) | Esta API foi criada com Quarkus para gerenciar clientes, pedidos e produtos em um sistema de e-commerce. A aplicação usa Hibernate ORM para persistência de dados com um banco de dados em memória H2. |
-| [E-Commerce](https://github.com/FernandoMCaires/PI_3) | Esta é a API de um sistema de e-commerce. A API permite o gerenciamento de usuários, produtos, categorias, carrinhos de compras, endereços e pedidos. |
-
+| [Quarkus-API](https://github.com/FernandoMCaires/Quarkus-API) | API criada com Quarkus para gerenciar clientes, pedidos e produtos em um sistema de e-commerce. Utiliza Hibernate ORM com banco de dados H2 em memória. | Quarkus, Java, Hibernate, H2 |
+| [E-Commerce](https://github.com/FernandoMCaires/PI_3) | API para sistema de e-commerce com gerenciamento de usuários, produtos, categorias, carrinhos de compras, endereços e pedidos. | PHP, Laravel, MySQL, Postman |
 
 ## 🌐 Idiomas
 
