@@ -1,6 +1,8 @@
 # 👋 Olá! Eu sou o Fernando Muller Caires
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" height="160px" alt="Gato Rockeiro" />
+</p>
 
 Seja bem-vindo(a) ao meu perfil! Sou um desenvolvedor **Full Stack** em formação, apaixonado por tecnologia, boas práticas de código e aprendizado contínuo. Busco sempre evoluir e contribuir para o crescimento das equipes com as quais colaboro.
 
