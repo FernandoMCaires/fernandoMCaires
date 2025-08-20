@@ -10,9 +10,9 @@ Seja bem-vindo(a) ao meu perfil! Sou um desenvolvedor **Full Stack** em formaç�
 
 ## 🚀 Sobre mim
 
-- 🎯 **Objetivo:** Desenvolvedor Full Stack Júnior  
+- 🎯 **Objetivo:** Desenvolvedor Full Stack Pleno 
 - 🎓 **Formação:** Técnico em Sistemas para Internet – Senac/SP (conclusão prevista: jan/2026)  
-- 💼 **Atualmente:** Estagiário em Desenvolvimento na [Finnet](https://www.finnet.com.br)  
+- 💼 **Atualmente:** Desenvolvedor FullStack Jr [Finnet](https://www.finnet.com.br)  
 - 🔁 **Experiência:** Desenvolvimento e manutenção de sistemas com JavaScript, PHP e SQL, utilizando frameworks como Laravel e React, além do uso de ORM (Doctrine) e participação ativa em squads ágeis  
 - 💡 **Interesses:** Desenvolvimento Web, APIs, Laravel, React, Docker, Clean Code, Metodologias Ágeis  
 
